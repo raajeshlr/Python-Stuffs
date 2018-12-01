@@ -1,0 +1,20 @@
+import math
+import os
+content = dir(math)
+print(content)
+current = os.getcwd()
+print(current)
+#os.chdir("FileDirectoryinProject")
+current = os.getcwd()
+print(current)
+#os.mkdir("FileDirectoryinProjectnew")
+#os.mkdir("FileDirectoryinProjectonemore")
+current = os.getcwd()
+print(current)
+#os.chdir("FileDirectoryinProjectnew")
+#current = os.getcwd()
+#print(current)
+os.chdir("FileDirectoryinProjectonemore")
+current = os.getcwd()
+print(current)
+

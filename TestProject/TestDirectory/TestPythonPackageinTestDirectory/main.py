@@ -1,0 +1,3 @@
+import TestPythonPackageinTestDirectory
+
+TestPythonPackageinTestDirectory.pots()

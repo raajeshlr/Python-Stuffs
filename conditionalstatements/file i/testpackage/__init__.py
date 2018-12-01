@@ -1,0 +1,1 @@
+from o import onefunction
